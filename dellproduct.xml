@@ -1,0 +1,41 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Dell Product</ShortName>
+<Description>Dell Product Search</Description>
+<InputEncoding>utf-8</InputEncoding>
+<Image width="16" height="16"> data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+		bWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+		bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+		eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+		NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+		dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+		dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+		IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+		ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+		cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlE
+		PSJ4bXAuaWlkOjA2NTVGNzAzQzg0QTExRTBCNUY4Qzk1QUIzOUE4ODZGIiB4bXBNTTpEb2N1bWVu
+		dElEPSJ4bXAuZGlkOjA2NTVGNzA0Qzg0QTExRTBCNUY4Qzk1QUIzOUE4ODZGIj4gPHhtcE1NOkRl
+		cml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MDY1NUY3MDFDODRBMTFFMEI1RjhD
+		OTVBQjM5QTg4NkYiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDY1NUY3MDJDODRBMTFFMEI1
+		RjhDOTVBQjM5QTg4NkYiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1l
+		dGE+IDw/eHBhY2tldCBlbmQ9InIiPz5xJBUdAAAAM1BMVEUAhcNApNJ/wuG/4PAQjcfv9/uf0ehg
+		s9rP6PQwnM7f8PcglMuv2exwu91Qq9aPyeX///94iV/LAAAAEXRSTlP/////////////////////
+		ACWtmWIAAALTSURBVHjanJfZgoUgCEBxQcs2//9rJwErb1o5zEtNci6LgEJ8lMEY87wCWh+MXkcQ
+		mZSesQeAboWbjFv4CAjeQl28+QAIHk7LF51EHb6AMm8ALb8+LYXXRmeIxyfAIMv8UPFM2HZuAxwt
+		sboVcTcRYmkBFvq8hnbSUXMksArwFQPvO4ucHLECIP0xxBdBXxKgsN9jfJeNCL8AR/rxkxRrBTDY
+		7/pCcAVgLCPzJikONlwAKTv2u36MKiXzBIRk0tyhH4PNTkC2yMcuSWGYMiD0OpCdcAJIBuhO/WjE
+		hB2A/zGATZgJsP0W2DeZU+ERIO2B0A+IqbZxB+B1Z/8k6xGwkA9ACdmqdaese6xsSj4QaO9gg2JZ
+		s9Iw5d1BnzhKLj3mFTaZDhRNSYv00+EoGNgQ5ZM69vyRctLc//jjCQA75PZkwri/tADpxRDAlwCY
+		gjQuQ1u+BXAEMPIfw6NHn1PJ83LbBJBqCdCnJdbhyhHhPvoIMBdAnATAs0ghD4saINYB43WcahkW
+		LwBXcYGHBCpoA8I9BkUQUxzojVOyn1VM0LyKzy0cg+EKKNMosp2ftD4eRcXRPlhvGwmPU4I1sQWQ
+		jTRxZ6lvZer1LUD6kQBxpbKuFJMtionEueOR82X3WtCtlv5Wzki5ASnrfzQUbiRAZW3/0dHI9yEB
+		/Dkpu4YT93XgIKt+gOYNBFI+plcfLTdzkGio/xjg83CdeoezjOeQATRqsXuw+fOAMUpBfJbtOKLA
+		MSN6UknbfLuekahITFcGVHnMUzIPPumPlwNBBuD0mUD6MPyeVMkt+yEONDPPgEEZmPeTBrdJVzut
+		M2F8dIOHzTVhcHPu6cTNPbsIFdyP8mCXaifBjYdWeSX4uXTNMhZW92vGnC+D+vnWhstx0VycYYqZ
+		9TmgwuvF83JxvMn92li9+qKeatrWh++X7+E0Ojs0d97ed8istd8njdbuocz+BBgAQVyz8+JcOw0A
+		AAAASUVORK5CYII=
+</Image>
+<SearchForm>http://www.dell.com/search/us/en/555/results</SearchForm>
+<Url type="text/html" method="GET" template="http://www.dell.com/search/us/en/555/results">
+<Param name="q" value="{searchTerms}"/>
+</Url>
+</SearchPlugin>
