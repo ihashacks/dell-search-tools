@@ -35,7 +35,7 @@
 		9TmgwuvF83JxvMn92li9+qKeatrWh++X7+E0Ojs0d97ed8istd8njdbuocz+BBgAQVyz8+JcOw0A
 		AAAASUVORK5CYII=
 </Image>
-<SearchForm>http://www.dell.com/support/troubleshooting/us/en/04/servicetag/{searchTerms}</SearchForm>
-<Url type="text/html" method="POST" template="http://www.dell.com/support/troubleshooting/us/en/04/servicetag/{searchTerms}">
+<SearchForm>http://www.dell.com/support/home/us/en/19/product-support/servicetag/{searchTerms}</SearchForm>
+<Url type="text/html" method="POST" template="http://www.dell.com/support/home/us/en/19/product-support/servicetag/{searchTerms}">
 </Url>
 </SearchPlugin>
